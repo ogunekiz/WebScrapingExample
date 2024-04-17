@@ -1,0 +1,17 @@
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\bin\Debug\net7.0\Web_Scraping_Example.exe
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\bin\Debug\net7.0\Web_Scraping_Example.deps.json
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\bin\Debug\net7.0\Web_Scraping_Example.runtimeconfig.json
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\bin\Debug\net7.0\Web_Scraping_Example.dll
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\bin\Debug\net7.0\Web_Scraping_Example.pdb
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.csproj.AssemblyReference.cache
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.AssemblyInfoInputs.cache
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.AssemblyInfo.cs
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.csproj.CoreCompileInputs.cache
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scra.08AA0926.Up2Date
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.dll
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\refint\Web_Scraping_Example.dll
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.pdb
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\Web_Scraping_Example.genruntimeconfig.cache
+D:\Projects\NET Projects\Console\Web_Scraping_Example\Web_Scraping_Example\obj\Debug\net7.0\ref\Web_Scraping_Example.dll
